@@ -1,1 +1,8 @@
 thi sample for git test test lab 
+
+
+git init 
+git add sample.txt
+git commit -m "add few lines"
+
+git push -u origin master
