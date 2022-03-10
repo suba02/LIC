@@ -1,15 +1,5 @@
 
-ok subaram all the best for your future 
-<<<<<<< HEAD
-gggggggggggggggggggggggggggggggggg
 
-=======
-<<<<<<< HEAD
-gggggggggggggggggggggggggggggggggggggggggggggggggggggggghmurugakumarsam ok g
-=======
-gggggggggggggggggggggggggggggggggggggggggggggggggggggggghhhyyy
->>>>>>> f4060b3581ec22efc64c7250518d2df0512e6a4d
->>>>>>> d73dde4f7f6ffc31b8134c06cb1657007da81b79
 <html>
 <head>
 demo git
@@ -23,5 +13,5 @@ dfldjfl
 <h1>hi subaram kumar how is ypur project is going on i hope you dinong best<h1>
 </body>
 </html>
-i dont know the reason becuase hoi parkavi rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+
 
